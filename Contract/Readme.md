@@ -24,4 +24,5 @@ To build a transparent, trustless donation ecosystem where every contribution ca
    ```bash
    npx hardhat compile 
 Contact address:0xE18583bBaE9ccA7C2e3f77C919A492e761D116d5
+<img width="1920" height="221" alt="Screenshot 2025-10-28 121442" src="https://github.com/user-attachments/assets/0e34a94e-110e-4f24-82c9-ed58d80dcf2a" />
 
